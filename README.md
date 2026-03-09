@@ -7,7 +7,7 @@
 ---
 
 ## 🔹 About Me
-- Skilled in **Frontend (React.js, Next.js, Angular)** and **Backend (Node.js, Express.js, MongoDB)**  
+- Skilled in **Frontend (React.js, Next.js)** and **Backend (Node.js, Express.js, MongoDB ,MYSQL)**  
 - Experienced with **real-time communication apps**, **RESTful APIs**, **JWT/OAuth authentication**, and **Stripe payment integration**  
 - Hands-on practice in **production-ready apps, e-commerce, dashboards, and AI-powered systems**  
 - Strong problem-solving, teamwork, and adaptability; continuously improving via courses & projects  
