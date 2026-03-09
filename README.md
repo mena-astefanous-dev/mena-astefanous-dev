@@ -129,37 +129,84 @@
 
 ## 📂 Featured Projects
 
-### 🛒 [Herafy E-Commerce Platform](https://herafyecom.netlify.app/en)  
+### 🛒 [Herafy E-Commerce Platform](https://herafy-app-client-side.vercel.app/)
 Multi-role platform (**customer, vendor, admin**) with real-world features.  
 - **Backend:** Node.js, Express.js, MongoDB, Stripe, JWT, Google OAuth, Cloudinary, RAG AI  
 - **Frontend:** Next.js, Tailwind CSS, NextAuth.js, i18n, TanStack Query  
 - **Admin Dashboard:** Angular, Tailwind CSS, RxJS, Chart.js  
-🔗 [Frontend Repo](https://github.com/Minamaher-sw/HerafyClientSide) | [Backend Repo](https://github.com/Minamaher-sw/HerafyBackend) | [Admin Repo](https://github.com/Minamaher-sw/HerafyDashboard)
+
+🔗 [Frontend Repo](https://github.com/Minamaher-sw/HerafyClientSide)  
+🔗 [Backend Repo](https://github.com/Minamaher-sw/HerafyBackend)  
+🔗 [Admin Repo](https://github.com/Minamaher-sw/HerafyDashboard)
 
 ---
 
-### 💬 [Real-time Chat App](https://github.com/Minamaher-sw/simple-socketio-chat)  
-Built with **Socket.io** for instant messaging.  
-Tech: Node.js, Express.js, Socket.io, CORS  
+### 🎬 [Movie App – Full Stack](https://movie-app-pied-xi.vercel.app/)
+Full stack movie discovery platform with modern UI and secure backend API.  
+
+- **Backend:** NestJS, REST API, JWT Authentication, Swagger, Unit & E2E Testing  
+- **Frontend:** React + Vite, Redux Toolkit, Dynamic Search, Favorites, User Profiles  
+
+🔗 [Backend Repo](https://github.com/Minamaher-sw/Movie-Backend-Restful-Api)  
+🔗 [Frontend Repo](https://github.com/Minamaher-sw/MovieApp)
 
 ---
 
-### ✅ [Task Management System](https://github.com/Minamaher-sw/Task-Mangment-System)  
-REST API with **JWT + Google OAuth**, task CRUD, and Swagger docs.  
-Tech: Node.js, Express.js, MongoDB, Joi, Swagger  
+### 💄 [Makeup Artist Backend API](https://github.com/Minamaher-sw/MakeupArtistBackend)
+Freelance backend system for booking and payment workflows.
+
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Authentication:** OAuth + JWT  
+- **Payments:** Stripe & Paymob integration  
+- **Media:** Cloudinary uploads  
+- **Validation:** Joi  
+
+🔗 [GitHub Repo](https://github.com/Minamaher-sw/MakeupArtistBackend)
 
 ---
 
-### 🚫 [Block App](https://github.com/Minamaher-sw/Block-App)  
-REST API for block/user management with secure auth.  
-Tech: Node.js, Express.js, MongoDB, JWT, bcrypt  
+### 💬 [Real-time Chat App](https://github.com/Minamaher-sw/simple-socketio-chat)
+Real-time messaging application built with WebSockets.
+
+Tech Stack:  
+Node.js • Express.js • Socket.io • CORS
 
 ---
 
-### 🎮 [Memory Game](https://memory-game-seven-tau-78.vercel.app/)  
-Interactive browser game for practicing TypeScript.  
-Tech: HTML5, CSS3, TypeScript  
+### ✅ [Task Management System](https://github.com/Minamaher-sw/Task-Mangment-System)
+Scalable backend task management system with caching and background jobs.
 
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Performance:** Redis caching  
+- **Architecture:** Modular backend structure  
+- **Deployment:** Docker Swarm + NGINX + AWS EC2  
+
+🔗 [GitHub Repo](https://github.com/Minamaher-sw/Task-Mangment-System)
+
+---
+
+### 🚫 [Block App](https://github.com/Minamaher-sw/Block-App)
+REST API for user and block management with secure authentication.
+
+Tech Stack:  
+Node.js • Express.js • MongoDB • JWT • bcrypt
+
+---
+
+### 🎮 [Memory Game](https://memory-game-seven-tau-78.vercel.app/)
+Interactive browser memory game built for practicing TypeScript and DOM manipulation.
+
+Tech Stack:  
+HTML5 • CSS3 • TypeScript
+
+---
+
+### 🚗 Advanced Driver Assistance System (ADAS)
+Embedded system developed as a graduation project.
+
+- Built using **Raspberry Pi, ultrasonic sensors, and camera modules**
+- Implemented using **Python, C, C++, Embedded C**
+- Designed to assist drivers with obstacle detection and safety alerts  
 ---
 
 ## 📊 GitHub Stats
