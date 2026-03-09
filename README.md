@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mina Maher
+# 👋 Hi, I'm Mena Maher
 
-💻 **Full Stack Developer (MEARN Stack)** | 🚀 Passionate about scalable web apps & modern UI/UX  
+💻 **Full Stack Developer (MERN Stack)** | 🚀 Passionate about scalable web apps & modern UI/UX  
 🎓 Electronics & Communications Engineering Graduate (High Distinction)  
 📍 Sohag, Egypt (easy to relocate)  
 
@@ -275,10 +275,10 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "Mina Maher",
+  name: "Mena Maher",
   profile: "/profile.jpg",
-  designation: "Full Stack Developer (MEARN Stack)",
-  description: "I am Mina Maher, a Full Stack Developer (MEARN Stack) and a graduate of Electronics and Communications Engineering from Sohag University, where I finished with high distinction. After graduation, I joined the ITI (Information Technology Institute) MEARN track, where I gained hands-on experience in developing production-ready applications using React.js, Next.js, Angular, Node.js, Express.js, and MongoDB. My journey has equipped me with strong skills in real-time communication, authentication (JWT/OAuth), and secure payment integration (Stripe), along with practical experience in building scalable e-commerce platforms, chat applications, and AI-powered dashboards. I am passionate about problem-solving, continuous learning, and delivering impactful solutions that combine modern UI/UX practices with solid backend engineering.",
+  designation: "Full Stack Developer (MERN Stack)",
+  description: "I am Mena Maher, a Full Stack Developer (MEARN Stack) and a graduate of Electronics and Communications Engineering from Sohag University, where I finished with high distinction. After graduation, I joined the ITI (Information Technology Institute) MEARN track, where I gained hands-on experience in developing production-ready applications using React.js, Next.js, Angular, Node.js, Express.js, and MongoDB. My journey has equipped me with strong skills in real-time communication, authentication (JWT/OAuth), and secure payment integration (Stripe), along with practical experience in building scalable e-commerce platforms, chat applications, and AI-powered dashboards. I am passionate about problem-solving, continuous learning, and delivering impactful solutions that combine modern UI/UX practices with solid backend engineering.",
   email: "mosadefmena185@gmail.com",
   phone: "+20 0114 878 6601",
   address: "Sohag, Egypt (easy to relocate)",
